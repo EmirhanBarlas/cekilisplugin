@@ -1,0 +1,9 @@
+name: CekilisPlugin
+version: 1.0
+main: org.splendid.cekilis.CekilisPlugin
+description: Çekiliş Eklentisi
+author: Splendid
+commands:
+  cekilis:
+    description: Çekilişi başlatır.
+    permission: cekilis.kontrol
